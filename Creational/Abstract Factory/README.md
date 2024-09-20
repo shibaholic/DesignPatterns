@@ -13,6 +13,12 @@ Consider implementing the Abstract Factory when you have a class with a set of F
 ## My practice implementation
 ### Problem statement
 
+Taking inspiration from Minecraft, villages are a collection of procedurally generated buildings/structures and their appearances are modified depending on factors such as the biome they are located. 
+
+The Abstract Factory pattern can apply to village structure generation as the appearance of the buildings in the same village make up a family of related buildings by biome appearance, which are distinct from other families.
+
+Therefore, a VillageFactory interface can be implemented as a ConcreteVillageFactory that only generates buildings that are related to this specific ConcreteVillageFactory's biome. This could for example be PlainsVillageFactory or SnowVillageFactory.
+
 ### UML diagram
 
 ![UML diagram](UmlDiagram.drawio.png)

@@ -15,6 +15,10 @@ Use the Factory Method when you want to save system resources by reusing existin
 ## My practice implementation
 ### Problem statement
 
+Taking inspiration from Minecraft, a monster spawner is a block that spawns monsters. The spawner can only spawn one type of monster at a time and can't change to spawn a different type of monster.
+
+The Factory Method pattern is suitable for this problem, as it is a simple case of deferring the concrete implementation to subclasses.
+
 ### UML diagram
 
 ![UML diagram](UmlDiagram.drawio.png)
