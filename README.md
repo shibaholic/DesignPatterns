@@ -8,13 +8,13 @@
 
 \- provides object creation mechanisms that increase flexibility and reuse existing code.
 
-| Design Pattern   | Practice completed? |
-|------------------|---------------------|
-| Factory Method   | ✅                   |
-| Abstract Factory | ✅                   |
-| Builder          | ❌                   |
-| Prototype        | ✅                   |
-| Singleton        | ❌                   |
+| Design Pattern                                      | Practice completed? |
+|-----------------------------------------------------|---------------------|
+| [Factory Method](/Creational/Factory%20Method/)     | ✅                   |
+| [Abstract Factory](/Creational/Abstract%20Factory/) | ✅                   |
+| Builder                                             | ❌                   |
+| [Prototype](/Creational/Prototype/)                 | ✅                   |
+| Singleton                                           | ❌                   |
 
 ### Structural patterns
 
