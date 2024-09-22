@@ -10,10 +10,10 @@
 
 | Design Pattern   | Practice completed? |
 |------------------|---------------------|
-| Factory Method   | ❌                   |
-| Abstract Factory | ❌                   |
+| Factory Method   | ✅                   |
+| Abstract Factory | ✅                   |
 | Builder          | ❌                   |
-| Prototype        | ❌                   |
+| Prototype        | ✅                   |
 | Singleton        | ❌                   |
 
 ### Structural patterns
