@@ -1,5 +1,3 @@
-using DesignPatterns.Creational.Factory_Method;
-
 namespace DesignPatterns.Creational.Abstract_Factory;
 
 public static class AbstractFactoryClient

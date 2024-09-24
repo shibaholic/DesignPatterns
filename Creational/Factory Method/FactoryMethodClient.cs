@@ -1,5 +1,3 @@
-using DesignPatterns.Creational.Factory_Method;
-
 namespace DesignPatterns.Creational.Factory_Method;
 
 public static class FactoryMethodClient

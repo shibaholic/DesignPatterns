@@ -1,6 +1,3 @@
-using System.Data.Common;
-using System.Text;
-
 namespace DesignPatterns.Creational.Prototype;
 
 public abstract class Prototype {

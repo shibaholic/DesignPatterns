@@ -1,5 +1,3 @@
-using DesignPatterns.Creational.Factory_Method;
-
 namespace DesignPatterns.Creational.Prototype;
 
 public static class PrototypeClient
