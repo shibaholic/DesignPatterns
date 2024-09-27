@@ -1,4 +1,4 @@
-﻿using DesignPatterns.Behavioral.Command;
+using DesignPatterns.Behavioral.Command;
 using DesignPatterns.Behavioral.State;
 using DesignPatterns.Creational.Factory_Method;
 using DesignPatterns.Creational.Abstract_Factory;
