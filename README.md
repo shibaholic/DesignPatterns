@@ -36,18 +36,18 @@
 
 \- takes care of effective communication and the assignment of responsibilities between objects.
 
-| Design Pattern              | Practice completed? |
-|-----------------------------|---------------------|
-| Chain of Responsibility     | ❌                   |
-| Command                     | ❌                   |
-| Iterator                    | ❌                   |
-| Mediator                    | ❌                   |
-| Memento                     | ❌                   |
-| Observer                    | ❌                   |
-| [State](/Behavioral/State/) | ✅                   |
-| Strategy                    | ❌                   |
-| Template Method             | ❌                   |
-| Visitor                     | ❌                   |
+| Design Pattern                  | Practice completed? |
+|---------------------------------|---------------------|
+| Chain of Responsibility         | ❌                   |
+| [Command](/Behavioral/Command/) | ✅                   |
+| Iterator                        | ❌                   |
+| Mediator                        | ❌                   |
+| Memento                         | ❌                   |
+| Observer                        | ❌                   |
+| [State](/Behavioral/State/)     | ✅                   |
+| Strategy                        | ❌                   |
+| Template Method                 | ❌                   |
+| Visitor                         | ❌                   |
 
 ## Sources
 
