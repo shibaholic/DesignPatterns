@@ -1,5 +1,6 @@
 using DesignPatterns.Behavioral.Command;
 using DesignPatterns.Behavioral.State;
+using DesignPatterns.Structural.Composite;
 using DesignPatterns.Creational.Factory_Method;
 using DesignPatterns.Creational.Abstract_Factory;
 using DesignPatterns.Creational.Prototype;
@@ -14,6 +15,7 @@ public class Program
         // AbstractFactoryClient.Run();
         // PrototypeClient.Run();
         // StateClient.Run();
-        CommandClient.Run();
+        // CommandClient.Run();
+        CompositeClient.Run();
     }
 }
