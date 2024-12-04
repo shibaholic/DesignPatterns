@@ -12,7 +12,7 @@
 |-----------------------------------------------------|---------------------|
 | [Factory Method](/Creational/Factory%20Method/)     | ✅                   |
 | [Abstract Factory](/Creational/Abstract%20Factory/) | ✅                   |
-| Builder                                             | ～ In Progress       |
+| Builder                                             | ❌                   |
 | [Prototype](/Creational/Prototype/)                 | ✅                   |
 | [Singleton](/Creational/Singleton/)                 | ✅                   |
 
@@ -25,7 +25,7 @@
 | Adapter                             | ✅                   |
 | Bridge                              | ✅                   |
 | [Composite](/Structural/Composite/) | ✅                   |
-| Decorator                           | ～ In Progress       |
+| [Decorator](/Structural/Decorator)  | ✅                   |
 | Facade                              | ❌                   |
 | Flyweight                           | ❌                   |
 | Proxy                               | ❌                   |

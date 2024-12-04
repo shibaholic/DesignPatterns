@@ -6,6 +6,7 @@ using DesignPatterns.Creational.Factory_Method;
 using DesignPatterns.Creational.Abstract_Factory;
 using DesignPatterns.Creational.Prototype;
 using DesignPatterns.Creational.Singleton;
+using DesignPatterns.Structural.Decorator;
 
 namespace DesignPatterns;
 
@@ -20,6 +21,7 @@ public class Program
         // CommandClient.Run();
         // CompositeClient.Run();
         // SingletonClient.Run();
-        StrategyClient.Run();
+        // StrategyClient.Run();
+        DecoratorClient.Run();
     }
 }
