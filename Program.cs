@@ -1,5 +1,6 @@
 using DesignPatterns.Behavioral.Command;
 using DesignPatterns.Behavioral.State;
+using DesignPatterns.Behavioral.Strategy;
 using DesignPatterns.Structural.Composite;
 using DesignPatterns.Creational.Factory_Method;
 using DesignPatterns.Creational.Abstract_Factory;
@@ -18,6 +19,7 @@ public class Program
         // StateClient.Run();
         // CommandClient.Run();
         // CompositeClient.Run();
-        SingletonClient.Run();
+        // SingletonClient.Run();
+        StrategyClient.Run();
     }
 }
