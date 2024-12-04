@@ -20,15 +20,15 @@
 
 \- explains how to assemble objects and classes into larger structures, while keeping those structures flexible and efficient.
 
-| Design Pattern                      | Practice completed?      |
-|-------------------------------------|--------------------------|
-| Adapter                             | ✅ sounds like what it is |
-| Bridge                              | ✅ just aggregation?      |
-| [Composite](/Structural/Composite/) | ✅                        |
-| Decorator                           | ～ In Progress                |
-| Facade                              | ❌                        |
-| Flyweight                           | ❌                        |
-| Proxy                               | ❌                        |
+| Design Pattern                      | Practice completed? |
+|-------------------------------------|---------------------|
+| Adapter                             | ✅                   |
+| Bridge                              | ✅                   |
+| [Composite](/Structural/Composite/) | ✅                   |
+| Decorator                           | ～ In Progress       |
+| Facade                              | ❌                   |
+| Flyweight                           | ❌                   |
+| Proxy                               | ❌                   |
 
 ### Behavioral patterns
 
