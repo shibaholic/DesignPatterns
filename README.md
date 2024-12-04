@@ -12,9 +12,9 @@
 |-----------------------------------------------------|---------------------|
 | [Factory Method](/Creational/Factory%20Method/)     | ✅                   |
 | [Abstract Factory](/Creational/Abstract%20Factory/) | ✅                   |
-| Builder                                             | ～ In Progress           |
+| Builder                                             | ～ In Progress       |
 | [Prototype](/Creational/Prototype/)                 | ✅                   |
-| Singleton                                           | ～ In Progress           |
+| [Singleton](/Creational/Singleton/)                 | ✅                   |
 
 ### Structural patterns
 
@@ -43,7 +43,7 @@
 | Memento                         | ❌                   |
 | Observer                        | ～ In Progress       |
 | [State](/Behavioral/State/)     | ✅                   |
-| Strategy                        | ～ In Progress           |
+| Strategy                        | ～ In Progress       |
 | Template Method                 | ❌                   |
 | Visitor                         | ❌                   |
 

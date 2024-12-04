@@ -4,6 +4,7 @@ using DesignPatterns.Structural.Composite;
 using DesignPatterns.Creational.Factory_Method;
 using DesignPatterns.Creational.Abstract_Factory;
 using DesignPatterns.Creational.Prototype;
+using DesignPatterns.Creational.Singleton;
 
 namespace DesignPatterns;
 
@@ -16,6 +17,7 @@ public class Program
         // PrototypeClient.Run();
         // StateClient.Run();
         // CommandClient.Run();
-        CompositeClient.Run();
+        // CompositeClient.Run();
+        SingletonClient.Run();
     }
 }
